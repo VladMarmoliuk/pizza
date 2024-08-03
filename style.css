@@ -13,9 +13,8 @@ body {
 .button{
     background-color: #FF5F00;
     font-size: 25px;
-    align-items: center;
    border-radius: 10px;
-   margin: auto 130px ;
+   margin: auto 240px ;
     
 }
 nav {
@@ -33,12 +32,12 @@ nav {
     .salle {
         height: 300px;
         width: 500px;
-        margin: auto 100px;
+        margin: auto 320px;
     }
     .post-img {
         height: 300px;
         width: 400px;
-        margin: auto 150px ;
+        margin: auto 380px ;
     }
     .post-text {
         font-size: 25px;
